@@ -2,7 +2,7 @@ int pin2=2;
 int pin3=3;
 int pin4=4;
 int pin5=5;
-int wait=750;
+int wait=850;
 
 
 void setup() {
